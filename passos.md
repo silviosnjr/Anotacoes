@@ -42,4 +42,8 @@ Listar container ativos
 ```
 docker ps
 ```
-
+# Strapi
+instalar sem o quik-install
+```bash
+npx create-strapi-app@latest my-project
+```
